@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{ 
+    display: ;
+    justify-content: ;
+    
+    min-height: 100vh;
+    background: url('./dg.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+h4{
+    font-size: .7cm;
+    color: black;
+    user-select: none;
+}
+
